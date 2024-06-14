@@ -1,0 +1,74 @@
+[
+    {
+        "source": "songs/Jale 2.mp3",
+        "title": "Jale 2",
+        "artist": "Sapna Chaudhary & Shiva Chaudhary",
+        "poster": "posters/jale.jpg"
+    },
+    {
+        "source": "songs/Akhiyaan Gulaab (From  Teri Baaton Mein Aisa Uljha Jiya ) - Mitraz.m4a",
+        "title": "Akhiyaan Gulaab",
+        "artist": "Mitraz",
+        "poster": "posters/Akhiyaan-Gulaab.jpg"
+    },
+    {
+        "source": "songs/Dekhte Dekhte - Atif Aslam.m4a",
+        "title": "Dekhte Dekhte",
+        "artist": "Atif Aslam",
+        "poster": "posters/dekhte dekhte.jpg"
+    },
+    {
+        "source": "songs/Husn - Anuv Jain.m4a",
+        "title": "Husn",
+        "artist": "Anuv Jain",
+        "poster": "posters/husn.jpg"
+    },
+    {
+        "source": "songs/Ishq - From  Lost;Found  - Faheem Abdullah, Rauhan Malik.m4a",
+        "title": "Ishq - From  Lost",
+        "artist": "Faheem Abdullah, Rauhan Malik",
+        "poster": "posters/ishq.jpg"
+    },
+    {
+        "source": "songs/Kahani Suno 2.0 - Kaifi Khalil.m4a",
+        "title": "Kahani Suno 2.0",
+        "artist": "Kaifi Khalil",
+        "poster": "posters/Kahani-Suno-2-0.jpg"
+    },
+    {
+        "source": "songs/Maiyya Mainu - Sachet Tandon.m4a",
+        "title": "Maiyya Mainu",
+        "artist": "Sachet Tandon",
+        "poster": "posters/maiyya menu.jpg"
+    },
+    {
+        "source": "songs/Malang Sajna - Sachet Tandon, Parampara Tandon, Kumaar, Sachet-Parampara.m4a",
+        "title": "Malang Sajna",
+        "artist": "Sachet Tandon, Parampara Tandon, Kumaar",
+        "poster": "posters/malang sajna.jpg"
+    },
+    {
+        "source": "songs/Manjha - Vishal Mishra.m4a",
+        "title": "Manjha",
+        "artist": "Vishal Mishra",
+        "poster": "posters/manjha.jpg"
+    },
+    {
+        "source": "songs/One Love - Shubh.m4a",
+        "title": "One Love",
+        "artist": "Shubh",
+        "poster": "posters/one love.jpg"
+    },
+    {
+        "source": "songs/Pehle Bhi Main - Vishal Mishra, Raj Shekhar.m4a",
+        "title": "Pehle Bhi Main",
+        "artist": "Vishal Mishra, Raj Shekhar",
+        "poster": "posters/pehle bhi mai.jpg"
+    },
+    {
+        "source": "songs/Sadqay - Aashir Wajahat, NAYEL, Nehaal Naseem.m4a",
+        "title": "Sadqay",
+        "artist": "Aashir Wajahat, NAYEL, Nehaal Naseem",
+        "poster": "posters/sadqay.jpg"
+    }
+]

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="login.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="loginscript.js"></script>
+
+</head>
+
+<body>
+    <div class="container containerFront">
+        <div class="top">
+            <div class="image">
+                <img src="img/Theme 3.jpg" alt="Profile Image" />
+            </div>
+            <span>Web Media Player</span>
+        </div>
+        <div class="form">
+            <form id="loginForm">
+
+                <div class="inputBox inputBoxFont">
+                    <label><i class="fa-solid fa-user"></i></label>
+                    <input type="text" placeholder="Username" class="input" name="username" id="username">
+                </div>
+
+                <div class="inputBox inputBoxFont">
+                    <label><i class="fa-solid fa-lock"></i></label>
+                    <input type="password" placeholder="Password" class="input" name="password" id="password">
+                </div>
+
+                <input type="submit" value="Sign In" id="loginbtn" class="submit">
+                <p id="message"></p>
+                <!-- <button class="submit">Sign In</button> -->
+                <div class="user">New User?<span class="newUser">Sign Up</span></div>
+            </form>
+        </div>
+    </div>
+    <div class="container containerBack">
+        <div class="top topBack">
+            <div class="image imageBack">
+                <img src="img/Theme 3.jpg" alt="Profile Image" />
+            </div>
+            <span>Web Media Player</span>
+        </div>
+
+        <!--==============Registeration============= -->
+
+        <div class="form formBack">
+            <form id="loginForm" action="#">
+                <div class="inputBox inputBoxBack">
+                    <label><i class="fa-solid fa-n"></i></label>
+                    <input type="text" placeholder="Name" class="input" name="name" id="name">
+                </div>
+                <div class="inputBox inputBoxBack">
+                    <label><i class="fa-solid fa-envelope"></i></label>
+                    <input type="email" placeholder="Email" class="input" name="email" id="email">
+                </div>
+                <div class="inputBox inputBoxBack">
+                    <label><i class="fa-solid fa-user"></i></label>
+                    <input type="text" placeholder="Username" class="input" name="uname" id="uname">
+                </div>
+                <div class="inputBox inputBoxBack">
+                    <label><i class="fa-solid fa-lock"></i></label>
+                    <input type="password" placeholder="Password" class="input" name="password" id="password">
+                </div>
+                <input type="submit" value="SignUp">
+                <!-- <button class="submit submitBack"><a href="otp.html">Sign Up</a></button> -->
+                <div class="user userBack">Already have an account?<span class="existingUser">Sign In</span>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="login.js"></script>
+</body>
+
+</html>

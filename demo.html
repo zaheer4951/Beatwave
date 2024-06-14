@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="cover.jpg" id="myImage" alt="Click me">
+    <script>
+        const myImage = document.getElementById('myImage');
+        const myAudio = new Audio('music1.m4a');
+      
+        myImage.addEventListener('click', () => {
+          myAudio.play();
+        });
+      </script>
+</body>
+</html>
